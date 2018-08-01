@@ -30,6 +30,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
   s.swift_version = '3.2'
 # You can declare here which swift files has to be included in pod files
-  s.source_files = 'Custom\ NavigationBarLib/*'
+  s.source_files = 'CustomNavigationBarLib/*'
 
 end
